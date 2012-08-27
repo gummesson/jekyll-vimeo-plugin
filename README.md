@@ -4,3 +4,6 @@ This plugin makes it easy to embed videos from Vimeo by using a simple Liquid ta
     {% vimeo 12345678 %}
 
 It's based of the [Youtube plugin/gist](http://www.portwaypoint.co.uk/jekyll-youtube-liquid-template-tag-gist/ "Jekyll Youtube Liquid Template Tag Gist") from Portway Point.
+
+##Instructions
+Copy/download the <code>vimeo.rb</code> file and place it in your _plugins directory.
